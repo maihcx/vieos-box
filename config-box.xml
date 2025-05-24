@@ -6,7 +6,7 @@
 		summary="Cho phép bật/tắt màn hình -1"
 		settingType="system"
 		defaultValue="false"
-		ToastShow="enabled: Đã bật màn hình -1|disable: Đã tắt màn hình -1"
+		toastshow="enabled: Đã bật màn hình -1|disable: Đã tắt màn hình -1"
 		refresh="com.android.launcher"/>
 
 	<Preference
