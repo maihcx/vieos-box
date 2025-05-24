@@ -16,8 +16,7 @@
 		summary="Cho phép chụp ảnh tất cả các ứng dụng"
 		settingType="system"
 		defaultValue="false"
-		toastshow="enabled: Đã vô hiệu cờ bảo mật|disable: Đã kích hoạt lại cờ bảo mật"
-		refresh="com.android.launcher"/>
+		toastshow="enabled: Đã vô hiệu cờ bảo mật|disable: Đã kích hoạt lại cờ bảo mật"/>
 
 	<Preference
 		type="list"
