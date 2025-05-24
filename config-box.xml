@@ -8,6 +8,16 @@
 		defaultValue="false"
 		toastshow="enabled: Đã bật màn hình -1|disable: Đã tắt màn hình -1"
 		refresh="com.android.launcher"/>
+	
+	<Preference
+		type="switch"
+		key="vieos_ss_secrect"
+		title="Vô hiệu hoá cờ bảo mật"
+		summary="Cho phép chụp ảnh tất cả các ứng dụng"
+		settingType="system"
+		defaultValue="false"
+		toastshow="enabled: Đã vô hiệu cờ bảo mật|disable: Đã kích hoạt lại cờ bảo mật"
+		refresh="com.android.launcher"/>
 
 	<Preference
 		type="list"
