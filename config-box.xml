@@ -2,8 +2,8 @@
 	<Preference
 		type="switch"
 		key="test_switch"
-		title="Bật tính năng B"
-		summary="Cho phép kích hoạt tính năng B"
+		title="Bật tính năng ABCXYZ"
+		summary="Cho phép kích hoạt tính năng ABCXYZ"
 		settingType="system"
 		defaultValue="true"
 		ToastShow="enabled: Đã bật|disable: Đã tắt"/>
