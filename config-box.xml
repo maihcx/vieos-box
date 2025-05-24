@@ -1,0 +1,30 @@
+<Preferences>
+	<Preference
+		type="switch"
+		key="test_switch"
+		title="Bật tính năng A"
+		summary="Cho phép kích hoạt tính năng A"
+		settingType="system"
+		defaultValue="true"
+		ToastShow="enabled: Đã bật|disable: Đã tắt"/>
+
+	<Preference
+		type="list"
+		key="test_list"
+		title="Chế độ hiển thị"
+		summary="Chọn giao diện mong muốn"
+		settingType="global"
+		defaultValue="2"
+		entries="Sáng|Tối|Tự động"
+		entryValues="1|2|3"/>
+
+	<Preference
+		type="seekbar"
+		key="test_brightness"
+		title="Độ sáng"
+		summary="Chỉnh độ sáng màn hình"
+		settingType="secure"
+		defaultValue="50"
+		min="0"
+		max="100"/>
+</Preferences>
