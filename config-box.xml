@@ -2,7 +2,7 @@
 	<Preference
 		type="switch"
 		key="vieos_home_minus"
-		title="Màn hình -1"
+		title="Màn hình -111"
 		summary="Cho phép bật/tắt màn hình -1"
 		settingType="system"
 		defaultValue="false"
