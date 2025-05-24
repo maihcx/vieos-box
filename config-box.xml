@@ -7,7 +7,7 @@
 		settingType="system"
 		defaultValue="false"
 		ToastShow="enabled: Đã bật|disable: Đã tắt"
-		SettingsPackage="com.android.launcher"/>
+		refresh="com.android.launcher"/>
 
 	<Preference
 		type="list"
