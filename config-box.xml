@@ -7,7 +7,7 @@
 		settingType="system"
 		defaultValue="false"
 		toastshow="enabled: Đã bật màn hình -1|disable: Đã tắt màn hình -1"
-		refresh="com.android.launcher"/>
+		reload="com.android.launcher"/>
 
 	<Preference
 		type="list"
