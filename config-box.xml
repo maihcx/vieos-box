@@ -17,7 +17,8 @@
 		settingType="global"
 		defaultValue="2"
 		entries="Sáng|Tối|Tự động"
-		entryValues="1|2|3"/>
+		entryValues="1|2|3"
+		refresh="com.google.android.apps.photos"/>
 
 	<Preference
 		type="seekbar"
