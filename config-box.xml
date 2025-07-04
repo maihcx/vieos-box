@@ -7,35 +7,12 @@
 		settingType="system"
 		defaultValue="false"
 		toastshow="enabled: Đã bật màn hình -1|disable: Đã tắt màn hình -1"
-		refresh="com.android.launcher"/>
+		refresh="com.android.launcher" />
 	
 	<Preference
 		type="switch"
 		key="vieos_ss_secrect"
 		title="Vô hiệu hoá cờ bảo mật"
 		summary="Cho phép chụp ảnh tất cả các ứng dụng"
-		settingType="system"
-		defaultValue="false"
-		toastshow="enabled: Đã vô hiệu cờ bảo mật|disable: Đã kích hoạt lại cờ bảo mật"/>
-
-	<Preference
-		type="list"
-		key="test_list"
-		title="Chế độ hiển thị"
-		summary="Chọn giao diện mong muốn"
-		settingType="global"
-		defaultValue="2"
-		entries="Sáng|Tối|Tự động"
-		entryValues="1|2|3"
-		refresh="com.google.android.apps.photos"/>
-
-	<Preference
-		type="seekbar"
-		key="test_brightness"
-		title="Độ sáng"
-		summary="Chỉnh độ sáng màn hình"
-		settingType="secure"
-		defaultValue="50"
-		min="0"
-		max="100"/>
+		settingType="system" />
 </Preferences>
