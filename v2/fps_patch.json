@@ -1,0 +1,52 @@
+{
+  "com.garena.game.kgvn": [
+    {
+      "filename": "/storage/emulated/0/Android/data/com.garena.game.kgvn/files/Resources/1.59.1/Databin/Client/Text/VeryHighFrameModeBlackList.bytes",
+      "base64": "IkoA76sAAAAotS/9I+dVQwur7QEAc4MKPzXNL2Aoc+wsPWOAsB4jRiV0Q8jZ7cqNw7JYtYtpUnYdvbHrOsijEbwEBvxrFBz3Hlu8IJ5gM5xBAw==",
+      "enabled": true,
+      "kousei_aov_fps_enabled": true,
+      "desc": "Patch test"
+    },
+    {
+      "filename": "/storage/emulated/0/Android/data/com.garena.game.kgvn/files/Resources/1.59.1/Databin/Client/Text/RenderQualityList.bytes",
+      "base64": "IkpnAMQAAAD4AB9t8QV6hI19atr0+kgsZSHMo/wSbNdX5BogkY1MDOIlfHL1PbTs0IP3yc7f7uBNGjYFxeOc8CqTLFKP1QU5GfNZ2XCAvjddFCVEL4Q0iBRBHrNLFpb+uYZQPQ1vCiiWXItRvmlPWtCH7qCggdlk/J/njZbUv3rCXHV641Ir3ALvhnAwLF6bFY8tUxyaIiNz/7ZUDlZXams07PPrVp2CXPNUEim8puchR8fRpy/RzaayiIU/97XLUPXs3u6XdOFV4eaEScW6VaCuHVU4WF4O",
+      "enabled": true,
+      "kousei_aov_fps_enabled": true,
+      "desc": "RenderQualityList"
+    },
+    {
+      "filename": "/storage/emulated/0/Android/data/com.garena.game.kgvn/files/Resources/1.59.1/Databin/Client/Text/60FPSWhiteList.bytes",
+      "base64": "IkoA76oAAAAotS/9I+dVQwuq1QEAY0MKp6b5BQxljp2lZwwQ1mOEFRK2O7nKFIOWTm4NclDbmFpManGzU7sjLwEF/OBOL+hBRQgjZZb0AQ==",
+      "enabled": true,
+      "kousei_aov_fps_enabled": true,
+      "desc": "60FPSWhiteList"
+    }
+  ],
+  "com.riotgames.league.teamfighttactics": [
+    {
+      "filename": "/data/data/com.riotgames.league.teamfighttactics/no_backup/Config/Game.cfg",
+      "findText": "WaitForVerticalSync=0",
+      "replaceText": "WaitForVerticalSync=1",
+      "enabled": true,
+      "desc": "Bật VSync cho TFT"
+    }
+  ],
+  "com.riotgames.league.teamfighttacticstw": [
+    {
+      "filename": "/data/data/com.riotgames.league.teamfighttacticstw/no_backup/Config/Game.cfg",
+      "findText": "WaitForVerticalSync=0",
+      "replaceText": "WaitForVerticalSync=1",
+      "enabled": true,
+      "desc": "Bật VSync cho TFT TW"
+    }
+  ],
+  "com.riotgames.league.teamfighttacticsvn": [
+    {
+      "filename": "/data/data/com.riotgames.league.teamfighttacticsvn/no_backup/Config/Game.cfg",
+      "findText": "WaitForVerticalSync=0",
+      "replaceText": "WaitForVerticalSync=1",
+      "enabled": true,
+      "desc": "Bật VSync cho TFT VN"
+    }
+  ]
+}
