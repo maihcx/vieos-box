@@ -2,7 +2,7 @@
   "com.garena.game.kgvn": [
     {
       "filename": "/storage/emulated/0/Android/data/com.garena.game.kgvn/files/Resources/1.59.1/Databin/Client/Text/VeryHighFrameModeBlackList.bytes",
-      "base64": "IkoA76sAAAAotS/9I+dVQwur7QEAc4MKPzXNL2Aoc+wsPWOAsB4jRiV0Q8jZ7cqNw7JYtYtpUnYdvbHrOsijEbwEBvxrFBz3Hlu8IJ5gM5xBAw==",
+      "base64": "IkoA76gAAAAotS/9I+dVQwuozQEAI8MJP2S+fgCTpcyQDxjuJ4gpDSFntys3Dsti1S6mSdl19Mau6yCPRvASBfwABPAtj4obqyf4QlvQ",
       "enabled": true,
       "kousei_aov_fps_enabled": true,
       "desc": "Patch test"
@@ -16,7 +16,7 @@
     },
     {
       "filename": "/storage/emulated/0/Android/data/com.garena.game.kgvn/files/Resources/1.59.1/Databin/Client/Text/60FPSWhiteList.bytes",
-      "base64": "IkoA76oAAAAotS/9I+dVQwuq1QEAY0MKp6b5BQxljp2lZwwQ1mOEFRK2O7nKFIOWTm4NclDbmFpManGzU7sjLwEF/OBOL+hBRQgjZZb0AQ==",
+      "base64": "IkoA76cAAAAotS/9I+dVQwunxQEAM8MJh8zXD2CylBnyAcP9BDElhO1OrjLFoKWTW4Mc1DamFpNa3OzU7shLBfzgTi/oQUUII2WW9AE=",
       "enabled": true,
       "kousei_aov_fps_enabled": true,
       "desc": "60FPSWhiteList"
