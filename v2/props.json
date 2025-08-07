@@ -1,0 +1,17 @@
+{
+  "pif_props_data": {
+    "BRAND": "google",
+    "DEVICE": "caiman",
+    "DEVICE_INITIAL_SDK_INT": "21",
+    "FINGERPRINT": "google/caiman_beta/caiman:16/BP31.250610.004/13769805:user/release-keys",
+    "ID": "BP31.250610.004",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 9 Pro",
+    "PRODUCT": "caiman_beta",
+    "RELEASE": "16",
+    "INCREMENTAL": "13769805",
+    "SECURITY_PATCH": "2025-07-05",
+    "TAGS": "release-keys",
+    "TYPE": "user"
+  }
+}
