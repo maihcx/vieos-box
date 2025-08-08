@@ -174,7 +174,8 @@
     "PRODUCT": "2211133G"
   },
   "PACKAGES_ONEPLUS_13": [
-    "com.proxima.dfm"
+    "com.proxima.dfm",
+    "com.garena.game.kgvn"
   ],
   "PACKAGES_ONEPLUS_13_DEVICE": {
     "BRAND": "OnePlus",
@@ -196,17 +197,5 @@
     "FINGERPRINT": "realme/kbi/RE58B4L1:14/UKQ1.230804.001/1715073230894:user/release-keys",
     "PRODUCT": "RE5824031PN0DCB4L1",
     "BOARD": "kbi"
-  },
-  "PACKAGES_XIAOMI_14_PRO": [
-    "com.garena.game.kgvn"
-  ],
-  "PACKAGES_XIAOMI_14_PRO_DEVICE": {
-    "BRAND": "Xiaomi",
-    "DEVICE": "shennong",
-    "MANUFACTURER": "Xiaomi",
-    "MODEL": "23116PN5BC",
-    "FINGERPRINT": "Xiaomi/shennong/shennong:14/UKQ1.230804.001/V816.0.50.0.UNBCNXM:user/release-keys",
-    "PRODUCT": "shennong",
-    "BOARD": "shennong"
   }
 }
