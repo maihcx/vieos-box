@@ -1,6 +1,5 @@
 {
-  {
-    "version": "2.0.0.0",
+  "2.0.0.0": {
     "date": "10/08/2025 00:00",
     "en" : [
       "Separated from version 1.x to fit the new system: ZEN2",
@@ -19,8 +18,7 @@
       "Tuân thủ quy chuẩn dữ liệu json chung"
     ]
   },
-  {
-    "version": "1.0.1.0",
+  "1.0.1.0": {
     "date": "07/08/2025 17:00",
     "en": [
       "Edge gestures default off",
