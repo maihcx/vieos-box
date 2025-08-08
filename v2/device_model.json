@@ -221,6 +221,16 @@
       "BOARD": "aurora"
     },
     {
+      "name": "Xiaomi 14 Pro",
+      "BRAND": "Xiaomi",
+      "DEVICE": "shennong",
+      "MANUFACTURER": "Xiaomi",
+      "MODEL": "23116PN5BC",
+      "FINGERPRINT": "Xiaomi/shennong/shennong:14/UKQ1.230804.001/V816.0.50.0.UNBCNXM:user/release-keys",
+      "PRODUCT": "shennong",
+      "BOARD": "shennong"
+    },
+    {
       "name": "Xiaomi 15 Ultra",
       "BRAND": "Xiaomi",
       "DEVICE": "xuanyuan",
