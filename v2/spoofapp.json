@@ -202,10 +202,11 @@
   ],
   "PACKAGES_XIAOMI_15_ULTRA_DEVICE": {
     "BRAND": "Xiaomi",
-    "DEVICE": "Xiaomi 15 Ultra",
+    "DEVICE": "xuanyuan",
     "MANUFACTURER": "Xiaomi",
     "MODEL": "25010PN30G",
     "FINGERPRINT": "Xiaomi/xuanyuan_eea/xuanyuan:15/AQ3A.240912.001/OS2.0.10.0.VOAEUXM:user/release-keys",
-    "PRODUCT": "25010PN30G"
+    "PRODUCT": "xuanyuan",
+    "BOARD": "xuanyuan"
   }
 }
