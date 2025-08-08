@@ -1,0 +1,6 @@
+{
+  "version": "1.0",
+  "devices": {
+    "PJF110": "https://maihcx.github.io/vieos-box/v2/patch/PJF110/apps_patch.json"
+  }
+}
