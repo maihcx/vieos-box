@@ -7,7 +7,8 @@
       "Support unlocking high configuration for some games",
       "Rewrite entire system script",
       "Remove 32bit to optimize application capacity",
-      "Complies with common json data standards"
+      "Complies with common json data standards",
+      "Add version history"
     ],
     "vi": [
       "Tách khỏi version 1.x để phù hợp với hệ thống mới: ZEN2",
@@ -15,7 +16,8 @@
       "Hỗ trợ mở khoá cấu hình cao cho một số games",
       "Viết lại toàn bộ tập lệnh hệ thống",
       "Loại bỏ 32bit để tối ưu hoá dung lượng ứng dụng",
-      "Tuân thủ quy chuẩn dữ liệu json chung"
+      "Tuân thủ quy chuẩn dữ liệu json chung",
+      "Thêm lịch sử phiên bản"
     ]
   },
   "1.0.1.0": {
