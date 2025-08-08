@@ -1,4 +1,13 @@
 {
+  "com.garena.game.kgvn": [
+    {
+      "filename": "/storage/emulated/0/Android/data/com.garena.game.kgvn/files/Resources/1.59.1/Databin/Client/Text/VeryHighFrameModeBlackList.bytes",
+      "base64": "IkoA76sAAAAotS/9I+dVQwur7QEAc4MKfw8wfgEDGc7O0jMGCOsxYlRCN4Sc3a7cOCyLVbuYJmXX0Ru7roM8GsFLBvxrFBz3Hlu8IJ5gM5xBAw==",
+      "enabled": true,
+      "kousei_aov_fps_enabled": true,
+      "desc": "Patch test"
+    }
+  ],
   "com.riotgames.league.teamfighttactics": [
     {
       "filename": "/data/data/com.riotgames.league.teamfighttactics/no_backup/Config/Game.cfg",
