@@ -1,0 +1,32 @@
+{
+  {
+    "version": "2.0.0.0",
+    "en" : [
+      "Separated from version 1.x to fit the new system: ZEN2",
+      "Brand new data storage system!",
+      "Support unlocking high configuration for some games",
+      "Rewrite entire system script",
+      "Remove 32bit to optimize application capacity",
+      "Complies with common json data standards"
+    ],
+    "vi": [
+      "Tách khỏi version 1.x để phù hợp với hệ thống mới: ZEN2",
+      "Hệ thống lưu trữ dữ liệu hoàn toàn mới!",
+      "Hỗ trợ mở khoá cấu hình cao cho một số games",
+      "Viết lại toàn bộ tập lệnh hệ thống",
+      "Loại bỏ 32bit để tối ưu hoá dung lượng ứng dụng",
+      "Tuân thủ quy chuẩn dữ liệu json chung"
+    ]
+  },
+  {
+    "version": "1.0.1.0",
+    "en": [
+      "Edge gestures default off",
+      "Update system functions"
+    ],
+    "vi": [
+      "Cử chỉ cạnh màn hình mặc định tắt",
+      "Cập nhật chức năng hệ thống"
+    ]
+  }
+}
