@@ -151,6 +151,16 @@
       "BOARD": "kbi"
     },
     {
+      "name": "Realme 14T 5G",
+      "BRAND": "realme",
+      "DEVICE": "RE60AFL1",
+      "MANUFACTURER": "realme",
+      "MODEL": "RMX5078",
+      "FINGERPRINT": "realme/RMX5078IN/RE60AFL1:15/AP3A.240617.008/V.R4T2.1d74ed6-1-2263e:user/release-keys",
+      "PRODUCT": "RE60AFL1",
+      "BOARD": "RMX5078IN"
+    },
+    {
       "name": "Samsung Galaxy S23 Ultra",
       "BRAND": "samsung",
       "DEVICE": "dm3q",
