@@ -1,8 +1,16 @@
 {
   "team": [
     {
-      "name": "Nguyễn Văn Nam",
-      "role": "Lead Developer & Founder",
+      "name": "Grass2",
+      "role": "Co-Founder",
+      "url": "https://cdn5.telesco.pe/file/ebrwQNplVOGHrGksIxmm_2MUWtPYDzgAfp3rco76IheMUq2m5lHgWLaOkO-GkKdgIDR4LaAnAXLaoIj1T-_YwWD6hxZSYxXOfBoIGMv_k0_iVOl6yMVS9-16PdGOqw9xLU7K3bfczwaQ1_vpSi6Xq2sp8JxH1TPjIAHiv9vcmwJPgASrTfJS0lG8H8Cs4tV44xnLwrge8E9fTrlDvdr3HS2P80NMtfy3jTb0se5_-ttg3LPax-iOFkojpmuuzhDoPDIZTd6feBCLZUIVq1oVNIQdl3Mf7E9UegAgW3k0HyUzdMu1B_2xc8iy5kN628poz26Y8SM_eB6HBAeSQev2VA.jpg"
+    },{
+      "name": "Huu Thong",
+      "role": "Co-Founder, Developer",
+      "url": "https://t.me/i/userpic/320/phihuuthong.jpg"
+    },{
+      "name": "Mai || AFK ||",
+      "role": "Co-Founder, Developer",
       "url": "https://t.me/i/userpic/320/maiphp.jpg"
     }
   ]
