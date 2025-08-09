@@ -1,5 +1,5 @@
 {
-  "team": [
+  "founder": [
     {
       "name": "Grass2",
       "role": "Co-Founder",
@@ -10,8 +10,25 @@
       "url": "https://t.me/i/userpic/320/phihuuthong.jpg"
     },{
       "name": "Mai || AFK ||",
-      "role": "Co-Founder, Developer",
+      "role": "Co-Founder, Toolbox & Core Developer",
       "url": "https://t.me/i/userpic/320/maiphp.jpg"
+    }
+  ],
+  "core": [
+    {
+      "name": "Kousei",
+      "role": "Toolbox & Core Developer",
+      "url": "https://cdn5.telesco.pe/file/RMQvViBKEjZmXIk-Rl67r0cWuZbWFTLQtdvzsIP3qf7RODg5ubC_4lETpOEgC8c270HE88KLyPVV6EDMv5U-ilNuIb7O5Gpqg1UFjVktI0JK4UhdPt4zFv3PtaL47ob6EFW4pO5FzDmZImJBIDCGCAPxiqZ7x2chTeUijPQUnLlY0p1QyugBwtsoVUdynclXfB6YPK6eb-Zz8qutR3UScP4BvYlkYHTLTz334KrFAZxKAxvTsP93TwJzCVwn7Sf5LWqDNpxUmv9flAMeZmtHaFS9dNVEVv4qdNKqHn6ppbPdJhfaokcFRIPNaBMsN7tYWRFzy8b044piPgYmf81nfw.jpg"
+    },
+    {
+      "name": "Trung Trần",
+      "role": "Manager & Oneplus Developer",
+      "url": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-1/405704202_6862880843800153_5422166513399018746_n.jpg?stp=c0.0.1006.1006a_dst-jpg_s200x200_tt6&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=ea76eKsw6VQQ7kNvwH8lIpE&_nc_oc=Adlt8DV7ukqjkM4tM6zt7bMq2w2FmzATU1ZgfYFqbyGgMC-EK_kylEO3oltvDoEIuNQ&_nc_zt=24&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=7xEwYSOCijOTKNpIGZBH_A&oh=00_AfWlCg6aL3kiSOyI32-KoT9Bma1qdzxND4vMILaAwD-aFA&oe=689CC25D"
+    },
+    {
+      "name": "Mốc",
+      "role": "Toolbox & Oneplus Developer",
+      "url": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-1/405704202_6862880843800153_5422166513399018746_n.jpg?stp=c0.0.1006.1006a_dst-jpg_s200x200_tt6&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=ea76eKsw6VQQ7kNvwH8lIpE&_nc_oc=Adlt8DV7ukqjkM4tM6zt7bMq2w2FmzATU1ZgfYFqbyGgMC-EK_kylEO3oltvDoEIuNQ&_nc_zt=24&_nc_ht=scontent.fsgn2-3.fna&_nc_gid=7xEwYSOCijOTKNpIGZBH_A&oh=00_AfWlCg6aL3kiSOyI32-KoT9Bma1qdzxND4vMILaAwD-aFA&oe=689CC25D"
     }
   ]
 }
