@@ -1,7 +1,31 @@
 {
-  "2.0.0.0": {
-    "date": "10/08/2025 00:00",
+  "2.0.0.1": {
+    "date": "11/08/2025 15:12",
     "en" : [
+      "2nd internal build with ZEN2 architecture",
+      "Fix inconsistent corner rounding in some places",
+      "Show system apps in developer options hidden window",
+      "Move some buttons to the appropriate window",
+      "Improved version text size for "version history",
+      "Optimize startup performance",
+      "Fix header bar in main layout sometimes rising too far",
+      "Improved stability"
+    ],
+    "vi": [
+      "Bản dựng nội bộ thứ 2 với kiến trúc ZEN2",
+      "Sửa lỗi bo tròn góc không nhất quán ở một số nơi",
+      "Hiển thị ứng dụng hệ thống trong cửa sổ ẩn tùy chọn nhà phát triển",
+      "Di chuyển 1 số nút đến cửa sổ phù hợp",
+      "Cải thiện kích thước văn bản phiên bản cho "lịch sử phiên bản",
+      "Tối ưu hóa hiệu suất khởi động",
+      "Sửa lỗi thanh tiêu đề trong trang chính đôi khi nhô lên quá cao",
+      "Cải thiện sự ổn định"
+    ]
+  },
+  "2.0.0.0": {
+    "date": "08/08/2025 00:00",
+    "en" : [
+      "First internal build with ZEN2 architecture",
       "Separated from version 1.x to fit the new system: ZEN2",
       "Brand new data storage system!",
       "Support unlocking high configuration for some games",
@@ -11,6 +35,7 @@
       "Add version history"
     ],
     "vi": [
+      "Bản dựng nội bộ đầu tiên với kiến trúc ZEN2",
       "Tách khỏi version 1.x để phù hợp với hệ thống mới: ZEN2",
       "Hệ thống lưu trữ dữ liệu hoàn toàn mới!",
       "Hỗ trợ mở khoá cấu hình cao cho một số games",
