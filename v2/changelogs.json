@@ -1,4 +1,21 @@
 {
+  "2.0.0.2": {
+    "date": "13/08/2025 11:11",
+    "en" : [
+      "Stable release version",
+      "Optimize application list loading speed",
+      "Support displaying system apps in the app list",
+      "Cache optimization",
+      "Upgrade to accommodate ZEN2 architecture"
+    ],
+    "vi": [
+      "Phiên bản phát hành ổn định",
+      "Tối ưu hóa tốc độ tải danh sách ứng dụng",
+      "Hỗ trợ hiển thị ứng dụng hệ thống trong danh sách ứng dụng",
+      "Tối ưu hóa bộ nhớ đệm",
+      "Nâng cấp để phù hợp với kiến trúc ZEN2"
+    ]
+  },
   "2.0.0.1": {
     "date": "11/08/2025 15:12",
     "en" : [
