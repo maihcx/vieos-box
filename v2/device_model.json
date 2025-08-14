@@ -269,6 +269,16 @@
       "FINGERPRINT": "google/komodo/komodo:15/BP1A.250405.005.A1/13151424:user/release-keys",
       "PRODUCT": "komodo",
       "BOARD": "komodo"
+    },
+    {
+      "name": "OPPO Find X8 Pro",
+      "BRAND": "OPPO",
+      "DEVICE": "OP5AB0L1",
+      "MANUFACTURER": "OPPO",
+      "MODEL": "CPH2659",
+      "FINGERPRINT": "OPPO/CPH2659IN/OP5AB0L1:15/AP3A.240617.008/V.R4T3.2f018af-1076c9e-1076ca2:user/release-keys",
+      "PRODUCT": "CPH2659",
+      "BOARD": "CPH2659"
     }
   ]
 }
