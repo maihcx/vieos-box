@@ -1,4 +1,19 @@
 {
+  "2.0.0.3": {
+    "date": "14/08/2025 16:33",
+    "en" : [
+      "Automatically update keybox when opening app",
+      "Update language pack",
+      "Show selected device for 'Apps & Games profile config' window",
+      "Some other performance improvements"
+    ],
+    "vi": [
+      "Tự động cập nhật hộp khóa khi mở ứng dụng",
+      "Cập nhật gói ngôn ngữ",
+      "Hiển thị thiết bị đã chọn cho cửa sổ 'Cấu hình ứ.dụng & games'",
+      "Một số cải tiến hiệu suất khác"
+    ]
+  },
   "2.0.0.2": {
     "date": "13/08/2025 11:11",
     "en" : [
