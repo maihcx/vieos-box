@@ -1,4 +1,17 @@
 {
+  "2.0.0.4": {
+    "date": "16/08/2025 01:33",
+    "en" : [
+      "Fixed bug where configuration could not be applied",
+      "Fix the problem of automatically stopping Google services when opening the app",
+      "Fix existing bugs"
+    ],
+    "vi": [
+      "Đã sửa lỗi không thể áp dụng cấu hình",
+      "Khắc phục vấn đề tự buộc dừng dịch vụ google khi mở app",
+      "Khắc phục các lỗi còn tồn tại"
+    ]
+  },
   "2.0.0.3": {
     "date": "14/08/2025 16:33",
     "en" : [
