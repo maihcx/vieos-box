@@ -1,4 +1,17 @@
 {
+  "2.0.0.5": {
+    "date": "21/08/2025 23:52",
+    "en" : [
+      "System API Update",
+      "Added 'Double press power button' feature",
+      "Security patch update"
+    ],
+    "vi": [
+      "Cập nhật API hệ thống",
+      "Đã thêm tính năng 'Nhấn đúp nút nguồn'",
+      "Cập nhật bản vá bảo mật"
+    ]
+  },
   "2.0.0.4": {
     "date": "16/08/2025 01:33",
     "en" : [
