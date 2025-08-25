@@ -1,4 +1,17 @@
 {
+  "2.0.0.6": {
+    "date": "25/08/2025 13:55",
+    "en" : [
+      "Fix the issue of not showing the power button menu when turning off 'Hold power button to call gemini'",
+      "Improved the expand - collapse effect in 'Version History'",
+      "Fixed missing text in 'Version History'"
+    ],
+    "vi": [
+      "Khắc phục vấn đề không hiện menu nút nguồn khi tắt 'Giữ nút nguồn để gọi gemini'",
+      "Cải thiện hiệu ứng mở rộng - thu nhỏ ở 'Lịch sử phiên bản'",
+      "Đã sửa lỗi văn bản bị thiếu trong 'Lịch sử phiên bản'"
+    ]
+  },
   "2.0.0.5": {
     "date": "21/08/2025 23:52",
     "en" : [
