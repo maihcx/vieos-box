@@ -3,11 +3,11 @@
     "date": "26/08/2025 16:19",
     "en" : [
       "Updated to prepare for LIMITED release",
-      "Fix the error of not synchronizing the function between toolbox and system"
+      "Fix the error of asynchronous function between toolbox and system"
     ],
     "vi": [
       "Cập nhật để chuẩn bị cho bản phát hành LIMITED",
-      "Khắc phục lỗi không đồng bộ chức năng giữ toolbox và hệ thống"
+      "Khắc phục lỗi không đồng bộ chức năng giữa toolbox và hệ thống"
     ]
   },
   "2.0.0.6": {
