@@ -197,5 +197,30 @@
     "FINGERPRINT": "realme/kbi/RE58B4L1:14/UKQ1.230804.001/1715073230894:user/release-keys",
     "PRODUCT": "RE5824031PN0DCB4L1",
     "BOARD": "kbi"
+  },
+  "PACKAGES_REALME_15_PRO": [
+    "com.garena.game.kgvn",
+    "com.garena.game.kgid",
+    "com.garena.game.kgth",
+    "com.tencent.ngjp",
+    "com.garena.game.kgtw",
+    "com.ngame.allstar.eu",
+    "com.clashoftitansandroid.india",
+    "com.tencent.ngame.chty",
+    "com.garena.game.kgvntest",
+    "com.levelinfinite.aov",
+    "com.tencent.aovindia",
+    "com.garena.game.kgms",
+    "com.tencent.aovjp",
+    "com.garena.game.kgph"
+  ],
+  "PACKAGES_REALME_15_PRO_DEVICE": {
+    "BRAND": "realme",
+    "DEVICE": "Realme 15 Pro 5G",
+    "MANUFACTURER": "realme",
+    "MODEL": "RMX5101",
+    "FINGERPRINT": "realme/RMX5101IN/RE60B4L1:15/AP3A.240617.008/V.R4T2.26cec0e-80bb4e-80b757:user/release-keys",
+    "PRODUCT": "RE60B4L1",
+    "BOARD": "RMX5101IN"
   }
 }
