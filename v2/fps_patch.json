@@ -3,7 +3,7 @@
     {
       "filename": "/storage/emulated/0/Android/data/com.garena.game.kgvn/files/Resources/1.59.1/Databin/Client/Text/VeryHighFrameModeBlackList.bytes",
       "base64": "IkoA76gAAAAotS/9I+dVQwuo1QEAIwMKP2RG4gcwWcoM+YDhfoKY0hBydrty47AsVu1impRdR2/sug7yaAQvAQX8AATwLY+KG6sn+EJb0A==",
-      "enabled": true,
+      "enabled": false,
       "kousei_aov_fps_enabled": true,
       "desc": "Patch test"
     }
