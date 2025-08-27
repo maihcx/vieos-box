@@ -1,4 +1,17 @@
 {
+  "2.0.0.8": {
+    "date": "27/08/2025 20:30",
+    "en" : [
+      "Add 'Dynamic Island' control function",
+      "Add 'AOD' control function",
+      "Note: the system needs to be updated to be compatible with the functionality of this version, if it doesn't work then it's normal"
+    ],
+    "vi": [
+      "Thêm chức năng điều khiển 'Đảo Động'",
+      "Thêm chức năng điều khiển 'AOD'",
+      "Lưu ý: hệ thống cần được cập nhật để tương thích với chức năng của phiên bản này, nếu nó không hoạt động thì đó là điều bình thường"
+    ]
+  },
   "2.0.0.7": {
     "date": "26/08/2025 16:19",
     "en" : [
