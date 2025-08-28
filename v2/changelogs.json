@@ -1,4 +1,17 @@
 {
+  "2.0.1.0": {
+    "date": "28/08/2025 14:35",
+    "en" : [
+      "Save version history to local storage",
+      "Force stop app when toggle in 'Hide developer options'",
+      "Force stop application when toggled in 'Media Controls'"
+    ],
+    "vi": [
+      "Lưu lại lịch sử phiên bản vào bộ nhớ cục bộ",
+      "Buộc dừng ứng dụng khi bật tắt trong 'Ẩn tùy chọn nhà phát triển'",
+      "Buộc dừng ứng dụng khi bật tắt trong 'Điều khiển đa phương tiện'"
+    ]
+  },
   "2.0.0.9": {
     "date": "27/08/2025 21:40",
     "en" : [
