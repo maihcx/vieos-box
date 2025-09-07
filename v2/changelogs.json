@@ -1,4 +1,13 @@
 {
+  "2.0.1.1": {
+    "date": "07/09/2025 22:37",
+    "en" : [
+      "Fix configuration editing error in integrity fix"
+    ],
+    "vi": [
+      "Khắc phục lỗi chỉnh sửa cấu hình trong  integrity fix"
+    ]
+  },
   "2.0.1.0": {
     "date": "28/08/2025 14:35",
     "en" : [
