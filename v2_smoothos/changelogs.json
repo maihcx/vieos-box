@@ -1,0 +1,254 @@
+{
+  "2.0.1.0.smos": {
+    "date": "11/09/2025 10:00",
+    "en" : [
+      "Release lite version for toolbox",
+      "Remove some unnecessary features",
+      "Support for Xiaomi devices (SmoothOS)"
+    ],
+    "vi": [
+      "Phát hành phiên bản lite cho toolbox",
+      "Loại bỏ 1 số tính năng không cần thiết",
+      "Hỗ trợ cho thiết bị Xiaomi (SmoothOS)"
+    ]
+  },
+  "2.0.1.0": {
+    "date": "28/08/2025 14:35",
+    "en" : [
+      "Save version history to local storage",
+      "Force stop app when toggle in 'Hide developer options'",
+      "Force stop application when toggled in 'Media Controls'"
+    ],
+    "vi": [
+      "Lưu lại lịch sử phiên bản vào bộ nhớ cục bộ",
+      "Buộc dừng ứng dụng khi bật tắt trong 'Ẩn tùy chọn nhà phát triển'",
+      "Buộc dừng ứng dụng khi bật tắt trong 'Điều khiển đa phương tiện'"
+    ]
+  },
+  "2.0.0.9": {
+    "date": "27/08/2025 21:40",
+    "en" : [
+      "Fix keybox injection not working"
+    ],
+    "vi": [
+      "Fix lỗi tiêm keybox không hoạt động"
+    ]
+  },
+  "2.0.0.8": {
+    "date": "27/08/2025 20:30",
+    "en" : [
+      "Add 'Dynamic Island' control function",
+      "Add 'AOD' control function",
+      "Note: the system needs to be updated to be compatible with the functionality of this version, if it doesn't work then it's normal"
+    ],
+    "vi": [
+      "Thêm chức năng điều khiển 'Đảo Động'",
+      "Thêm chức năng điều khiển 'AOD'",
+      "Lưu ý: hệ thống cần được cập nhật để tương thích với chức năng của phiên bản này, nếu nó không hoạt động thì đó là điều bình thường"
+    ]
+  },
+  "2.0.0.7": {
+    "date": "26/08/2025 16:19",
+    "en" : [
+      "Updated to prepare for LIMITED release",
+      "Fix the error of asynchronous function between toolbox and system"
+    ],
+    "vi": [
+      "Cập nhật để chuẩn bị cho bản phát hành LIMITED",
+      "Khắc phục lỗi không đồng bộ chức năng giữa toolbox và hệ thống"
+    ]
+  },
+  "2.0.0.6": {
+    "date": "25/08/2025 13:55",
+    "en" : [
+      "Fix the issue of not showing the power button menu when turning off 'Hold power button to call gemini'",
+      "Improved the expand - collapse effect in 'Version History'",
+      "Fixed missing text in 'Version History'"
+    ],
+    "vi": [
+      "Khắc phục vấn đề không hiện menu nút nguồn khi tắt 'Giữ nút nguồn để gọi gemini'",
+      "Cải thiện hiệu ứng mở rộng - thu nhỏ ở 'Lịch sử phiên bản'",
+      "Đã sửa lỗi văn bản bị thiếu trong 'Lịch sử phiên bản'"
+    ]
+  },
+  "2.0.0.5": {
+    "date": "21/08/2025 23:52",
+    "en" : [
+      "System API Update",
+      "Added 'Double press power button' feature",
+      "Security patch update"
+    ],
+    "vi": [
+      "Cập nhật API hệ thống",
+      "Đã thêm tính năng 'Nhấn đúp nút nguồn'",
+      "Cập nhật bản vá bảo mật"
+    ]
+  },
+  "2.0.0.4": {
+    "date": "16/08/2025 01:33",
+    "en" : [
+      "Fixed bug where configuration could not be applied",
+      "Fix the problem of automatically stopping Google services when opening the app",
+      "Fix existing bugs"
+    ],
+    "vi": [
+      "Đã sửa lỗi không thể áp dụng cấu hình",
+      "Khắc phục vấn đề tự buộc dừng dịch vụ google khi mở app",
+      "Khắc phục các lỗi còn tồn tại"
+    ]
+  },
+  "2.0.0.3": {
+    "date": "14/08/2025 16:33",
+    "en" : [
+      "Automatically update keybox when opening app",
+      "Update language pack",
+      "Show selected device for 'Apps & Games profile config' window",
+      "Some other performance improvements"
+    ],
+    "vi": [
+      "Tự động cập nhật hộp khóa khi mở ứng dụng",
+      "Cập nhật gói ngôn ngữ",
+      "Hiển thị thiết bị đã chọn cho cửa sổ 'Cấu hình ứ.dụng & games'",
+      "Một số cải tiến hiệu suất khác"
+    ]
+  },
+  "2.0.0.2": {
+    "date": "13/08/2025 11:11",
+    "en" : [
+      "Stable release version",
+      "Optimize application list loading speed",
+      "Support displaying system apps in the app list",
+      "Cache optimization",
+      "Upgrade to accommodate ZEN2 architecture"
+    ],
+    "vi": [
+      "Phiên bản phát hành ổn định",
+      "Tối ưu hóa tốc độ tải danh sách ứng dụng",
+      "Hỗ trợ hiển thị ứng dụng hệ thống trong danh sách ứng dụng",
+      "Tối ưu hóa bộ nhớ đệm",
+      "Nâng cấp để phù hợp với kiến trúc ZEN2"
+    ]
+  },
+  "2.0.0.1": {
+    "date": "11/08/2025 15:12",
+    "en" : [
+      "2nd internal build with ZEN2 architecture",
+      "Fix inconsistent corner rounding in some places",
+      "Show system apps in developer options hidden window",
+      "Move some buttons to the appropriate window",
+      "Improved version text size for 'version history'",
+      "Optimize startup performance",
+      "Fix header bar in main layout sometimes rising too far",
+      "Improved stability"
+    ],
+    "vi": [
+      "Bản dựng nội bộ thứ 2 với kiến trúc ZEN2",
+      "Sửa lỗi bo tròn góc không nhất quán ở một số nơi",
+      "Hiển thị ứng dụng hệ thống trong cửa sổ ẩn tùy chọn nhà phát triển",
+      "Di chuyển 1 số nút đến cửa sổ phù hợp",
+      "Cải thiện kích thước văn bản phiên bản cho 'lịch sử phiên bản'",
+      "Tối ưu hóa hiệu suất khởi động",
+      "Sửa lỗi thanh tiêu đề trong trang chính đôi khi nhô lên quá cao",
+      "Cải thiện sự ổn định"
+    ]
+  },
+  "2.0.0.0": {
+    "date": "08/08/2025 00:00",
+    "en" : [
+      "First internal build with ZEN2 architecture",
+      "Separated from version 1.x to fit the new system: ZEN2",
+      "Brand new data storage system!",
+      "Support unlocking high configuration for some games",
+      "Rewrite entire system script",
+      "Remove 32bit to optimize application capacity",
+      "Complies with common json data standards",
+      "Add version history"
+    ],
+    "vi": [
+      "Bản dựng nội bộ đầu tiên với kiến trúc ZEN2",
+      "Tách khỏi version 1.x để phù hợp với hệ thống mới: ZEN2",
+      "Hệ thống lưu trữ dữ liệu hoàn toàn mới!",
+      "Hỗ trợ mở khoá cấu hình cao cho một số games",
+      "Viết lại toàn bộ tập lệnh hệ thống",
+      "Loại bỏ 32bit để tối ưu hoá dung lượng ứng dụng",
+      "Tuân thủ quy chuẩn dữ liệu json chung",
+      "Thêm lịch sử phiên bản"
+    ]
+  },
+  "1.0.1.0": {
+    "date": "07/08/2025 17:00",
+    "en": [
+      "Edge gestures default off",
+      "Update system functions"
+    ],
+    "vi": [
+      "Cử chỉ cạnh màn hình mặc định tắt",
+      "Cập nhật chức năng hệ thống"
+    ]
+  },
+  "1.0.0.9": {
+    "date": "04/08/2025 21:07",
+    "en": [
+      "Overlay to show device information",
+      "Edge gestures (default on)",
+      "Edge gestures: Swipe up to call Assistant",
+      "Edge gestures: Swipe down to call CircleToSearch",
+      "Update for bubble handle"
+    ],
+    "vi": [
+      "Lớp phủ để hiển thị thông tin thiết bị",
+      "Cử chỉ cạnh (mặc định bật)",
+      "Cử chỉ cạnh: Vuốt lên để gọi Trợ lý",
+      "Cử chỉ cạnh: Vuốt xuống để gọi CircleToSearch",
+      "Cập nhật xử lý bubble"
+    ]
+  },
+  "1.0.0.8": {
+    "date": "25/07/2025 12:29",
+    "en": [
+      "Can customize avatar",
+      "Can customize quotes",
+      "Add CircleToSearch function to replace current MiCTS"
+    ],
+    "vi": [
+      "Có thể tự tùy chỉnh avatar",
+      "Có thể tự tùy chỉnh quotes",
+      "Thêm chức năng CircleToSearch để thay thế MiCTS hiện hành"
+    ]
+  },
+  "1.0.0.3": {
+    "date": "19/07/2025 12:55",
+    "en": [
+      "First release",
+      "Bubble messenger fixer",
+      "Fixed some bugs causing instability",
+      "Fix some color errors when in dark mode"
+    ],
+    "vi": [
+      "Bản phát hành đầu tiên",
+      "Khắc phục lỗi bubble",
+      "Đã sửa một số lỗi gây mất ổn định",
+      "Khắc phục một số lỗi màu sắc khi ở chế độ nền tối"
+    ]
+  },
+  "1.0.0.2": {
+    "date": "18/07/2025 16:32",
+    "en": [
+      "Second internal test",
+      "Provides automatic update capability"
+    ],
+    "vi": [
+      "Bản thử nghiệm nội bộ thứ 2",
+      "Cung cấp khả năng tự động cập nhật"
+    ]
+  },
+  "1.0.0.1": {
+    "date": "17/07/2025 12:55",
+    "en": [
+      "Initial internal test"
+    ],
+    "vi": [
+      "Thử nghiệm nội bộ ban đầu"
+    ]
+  }
+}
