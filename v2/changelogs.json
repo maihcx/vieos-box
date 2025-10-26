@@ -1,11 +1,20 @@
 {
+  "2.0.1.2": {
+    "date": "26/10/2025 22:00",
+    "en" : [
+      "(Application flag) Show dock on system launcher"
+    ],
+    "vi": [
+      "(Cờ ứng dụng) Hiển thị thanh dock trên trình khởi chạy hệ thống"
+    ]
+  },
   "2.0.1.1": {
     "date": "07/09/2025 22:37",
     "en" : [
       "Fix configuration editing error in integrity fix"
     ],
     "vi": [
-      "Khắc phục lỗi chỉnh sửa cấu hình trong  integrity fix"
+      "Khắc phục lỗi chỉnh sửa cấu hình trong integrity fix"
     ]
   },
   "2.0.1.0": {
