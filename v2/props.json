@@ -1,16 +1,16 @@
 {
   "pif_props_data": {
     "BRAND": "google",
-    "DEVICE": "tokay",
+    "DEVICE": "frankel",
     "DEVICE_INITIAL_SDK_INT": "21",
-    "FINGERPRINT": "google/tokay_beta/tokay:CANARY/ZP11.250829.007/14104575:user/release-keys",
-    "ID": "ZP11.250829.007",
+    "FINGERPRINT": "google/frankel/frankel:16/BP4A.260105.004.E1/14587043:user/release-keys",
+    "ID": "BP4A.260105.004.E1",
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 9",
-    "PRODUCT": "tokay_beta",
+    "MODEL": "Pixel 10",
+    "PRODUCT": "frankel",
     "RELEASE": "16",
-    "INCREMENTAL": "14104575",
-    "SECURITY_PATCH": "2025-09-05",
+    "INCREMENTAL": "14587043",
+    "SECURITY_PATCH": "2026-01-05",
     "TAGS": "release-keys",
     "TYPE": "user"
   },
@@ -22,8 +22,8 @@
     "PRODUCT": "komodo",
     "HARDWARE": "komodo",
     "MODEL": "Pixel 9 Pro XL",
-    "ID": "BP1A.250505.005",
-    "FINGERPRINT": "google/komodo/komodo:15/BP1A.250505.005/13277524:user/release-keys"
+    "ID": "BP4A.260105.004.E1",
+    "FINGERPRINT": "google/komodo/komodo:16/BP4A.260105.004.E1/14587043:user/release-keys"
   },
   "snapchat_default": {
     "BRAND": "google",
@@ -33,8 +33,8 @@
     "PRODUCT": "komodo",
     "HARDWARE": "komodo",
     "MODEL": "Pixel 9 Pro XL",
-    "ID": "BP1A.250505.005",
-    "FINGERPRINT": "google/komodo/komodo:15/BP1A.250505.005/13277524:user/release-keys"
+    "ID": "BP4A.260105.004.E1",
+    "FINGERPRINT": "google/komodo/komodo:16/BP4A.260105.004.E1/14587043:user/release-keys"
   },
   "music_default": {
     "BRAND": "meizu",
